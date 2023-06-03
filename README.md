@@ -3,9 +3,9 @@ Template de bot discord en python (dernière version de discord.py) en Slash Com
 
 
 {
-    "token":"", <= Token de bot \n
-    "statut":"discord.py", <= Statut (ready.py)\n
-    "owner-id":"" <= Propriétaire\n
+    "token":"", <= Token de bot 
+    "statut":"discord.py", <= Statut (ready.py)
+    "owner-id":"" <= Propriétaire
 }
 
 
